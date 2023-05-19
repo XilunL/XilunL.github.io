@@ -2,23 +2,25 @@
   type: map
   contents:
     - name: Full Name
-      value: Tongrui Wang
+      value: Albert Einstein
     - name: Date of Birth
-      value: 07th March 1995
+      value: 14th March 1879
     - name: Languages
-      value: Chinese, English
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: Nanjing University, Nanjing, China
-      year: 2017 - 2022
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - Mathematics.
-        - title: title: Advisor.
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
           contents:
-            - Prof. Gang Tian.
+            - Sub-description 1.
+            - Sub-description 2.
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
