@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>王童瑞</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>王童瑞</a>. 
 
 profile:
   align: right
