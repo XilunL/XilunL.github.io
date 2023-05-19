@@ -11,7 +11,7 @@ profile:
   address: >
     <p>📬 Westlake University(Yungu Campus), Hangzhou, Zhejiang, China</p>
     <p>📮 512 Malott Hall, Cornell University, Ithaca, NY, 14850</p>
-    #<p>Your City, State 12345</p>
+    
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
