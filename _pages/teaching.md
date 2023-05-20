@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: talk
+permalink: /talk/
+title: Talk
 description: Research Talks
 nav: true 
 nav_order: 3
@@ -22,6 +22,9 @@ nav_order: 3
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Differential Geometry Seminar, University of Electronic Science and Technology of China, China.</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">2022.12: Differential Geometry Seminar</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">○ University of Electronic Science and Technology of China, China.</li>
+    </ul>
   </div>
 </div>
