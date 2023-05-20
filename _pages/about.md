@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 📬 Westlake University(Yungu Campus), Hangzhou, Zhejiang, China. 
 
