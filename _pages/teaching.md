@@ -17,7 +17,7 @@ nav_order: 3
         <h5 class="font-weight-bold">Equivariant min-max theory and Morse index estimates.</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle" href="https://www.cs.cmu.edu/~pradeepr/courses/701/2018-spring/" target="_blank">
+        <span class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle" href="" target="_blank">
             2022.12
         </span>
       </div>
