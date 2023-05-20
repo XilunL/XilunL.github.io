@@ -6,7 +6,7 @@ subtitle: 📬 Westlake University(Yungu Campus), Hangzhou, Zhejiang, China.
 
 profile:
   align: right
-  image: #prof_pic.jpg
+  image: tr-wang.JPG #prof_pic.jpg
   image_circular: # crops the image to make it circular
   address: >
 
