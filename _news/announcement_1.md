@@ -6,7 +6,3 @@ related_posts: false
 ---
 
 I’m currently visiting Cornell University.
-
-&nbsp;
-
-📮 512 Malott Hall, Cornell University, Ithaca, NY, 14850.
