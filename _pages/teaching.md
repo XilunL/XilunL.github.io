@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: talk
 description: Research Talks
-nav: true 
+nav: false 
 nav_order: 3
 ---
 
