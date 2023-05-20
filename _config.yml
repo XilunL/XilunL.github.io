@@ -7,9 +7,9 @@ first_name: Tongrui
 middle_name: 
 last_name: Wang
 email: wangtongrui@westlake.edu.cn
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description:  # the ">" symbol means to ignore newlines until "footer_text:"
   
-footer_text: >
+footer_text: 
 
 keywords: #jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
