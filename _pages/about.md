@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>王童瑞</a>. 
+subtitle: 📬 Westlake University(Yungu Campus), Hangzhou, Zhejiang, China. 
 
 profile:
   align: right
   image: #prof_pic.jpg
   image_circular: # crops the image to make it circular
   address: >
-    <p>📬 Westlake University(Yungu Campus), Hangzhou, Zhejiang, China </p>
-    <p>📮 512 Malott Hall, Cornell University, Ithaca, NY, 14850 </p>
+
+
     
 
 news: true  # includes a list of news items
