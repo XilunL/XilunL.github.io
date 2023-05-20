@@ -7,11 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-- title: Research Interests
-  type: nested_list
-  contents:
-    - title: Differential Geometry
-    - title: Geometric Analysis
 
   <!-- Content -->
   <div class="content">
