@@ -19,7 +19,7 @@ nav_order: 3
         <h5 class="font-weight-bold">Equivariant Min-max Theory and its Applications.</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle">
+        <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle">
             2023.03
         </span>
       </div>
