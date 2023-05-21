@@ -39,7 +39,7 @@ nav_order: 3
         <h5 class="font-weight-bold">Equivariant min-max theory and Morse index estimates.</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle" href="" target="_blank">
+        <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle" href="" target="_blank">
             2022.12
         </span>
       </div>
@@ -59,7 +59,7 @@ nav_order: 3
         <h5 class="font-weight-bold">Almgren-Pitts min-max theory and its applications.</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle">
+        <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle">
             2022.09
         </span>
       </div>
@@ -78,7 +78,7 @@ nav_order: 3
         <h5 class="font-weight-bold">Equivariant Almgren-Pitts min-max theory and its applications.</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle">
+        <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle">
             2022.06
         </span>
       </div>
@@ -97,7 +97,7 @@ nav_order: 3
         <h5 class="font-weight-bold">The existence of G-invariant constant mean curvature hypersurfaces.</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle">
+        <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle">
             2022.06
         </span>
       </div>
@@ -116,7 +116,7 @@ nav_order: 3
         <h5 class="font-weight-bold">Equivariant min-max theory under the setting of Almgren-Pitts.</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle">
+        <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle">
             2021.05
         </span>
       </div>
@@ -135,7 +135,7 @@ nav_order: 3
         <h5 class="font-weight-bold">Min–max theory for G-invariant minimal hypersurfaces.</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold light-blue darken-1 text-uppercase align-middle">
+        <span class="badge font-weight-bold blue darken-1 text-uppercase align-middle">
             2020.08
         </span>
       </div>
