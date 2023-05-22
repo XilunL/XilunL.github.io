@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://TR-Wang.github.io/sitemap.xml
+Sitemap: https://TongruiWang.github.io/sitemap.xml
