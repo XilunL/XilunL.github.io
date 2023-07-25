@@ -5,5 +5,5 @@ title: CV
 description: Here is my curriculum vitae (Last Updated on May 20, 2023)
 nav: true
 nav_order: 4
-cv_pdf: Curriculum Vitae-WangTR.pdf
+cv_pdf: Curriculum Vitae-WangTR 2023.07.pdf
 ---
