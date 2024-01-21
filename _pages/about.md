@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: 📬 Peking University, Beijing, China. 
 
-#profile:
+profile: >
 #align: right
 #image: tr-wang.JPG #prof_pic.jpg
 #image_circular: # crops the image to make it circular
